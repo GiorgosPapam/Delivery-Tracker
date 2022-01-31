@@ -152,19 +152,6 @@ def System():
                 writer.writerow([Client[i]['ID'] ,Client[i]['Name'] ,Client[i]['Address'], Client[i]['Orders'], Client[i]['Amount'], Client[i]['Date']])
         print("Export done!")
         
-    
-    
-
-
-
-
-
-
-
-
-
-
-
 
 
 
