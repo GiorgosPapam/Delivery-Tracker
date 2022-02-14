@@ -54,11 +54,6 @@ def main():
             main()
         
         
-        
-                
-            
-    
-
 
 
 
@@ -215,20 +210,6 @@ def Order(user):
        nick = nick + 1 
 
             
-    
-
-                    
-    
-    
-    
-    
-
-
-
-
-
-
-
 
 
 #Login function
